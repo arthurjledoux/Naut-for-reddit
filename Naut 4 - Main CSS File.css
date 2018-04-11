@@ -15,3 +15,52 @@
 											/////
 
 	==================================================================================================================================*/
+
+/* flairs */
+.flair {
+    background: url(%%spritesheet%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+}
+
+.flair-Alternate {
+    width: 40px;
+    height: 40px;
+    background-position: 0 0;
+}
+
+.flair-Away {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -40px;
+}
+
+.flair-Blackhawks {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -80px;
+}
+
+.flair-Blackhawks-jersey {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -120px;
+}
+
+.flair-Chicago {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -160px;
+}
+
+.flair-IceHogs-Logo {
+    width: 40px;
+    height: 28px;
+    background-position: 0 -200px;
+}
+
+.flair-Jersey {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -228px;
+}
